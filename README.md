@@ -3,6 +3,7 @@
 Первоисточники:
 1. Статья (https://proglib.io/p/js-design-patterns/)
 2. Оригинал (https://github.com/sohamkamani/javascript-design-patterns-for-humans)
+
 У каждого примера вверху распологается описание с простым примером, в каком контексте нужно использовать паттерн. Затем сам пример с кодом.
 
 # Запуск примеров
